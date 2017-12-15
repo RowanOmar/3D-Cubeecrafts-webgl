@@ -1,5 +1,2 @@
 # 3D model of cubeecrafts
-It was developed using WebGl, JavaScript and Html.
-
-# Description
-It a 3D model of avengers cubeecrafts, cubeecrafts can move,talk and fly. It allows you to move camera's view.
+It a simple 3D model of avengers cubeecrafts developed using WebGl, JavaScript and Html. It allows users to move and change camera's view and it also supports some sound effects.
